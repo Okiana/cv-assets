@@ -62,7 +62,7 @@ JavaScript ES5+, TypeScript, Angular. Angular, Express.js, Mongoose, lodash, JQu
 
 ### Databases
 
-MySQL, MongoDB, SQL, PostgreSQL, XML, JSON.
+MySQL, MongoDB, PostgreSQL.
 
 ### Computer Science Concepts
 
@@ -70,7 +70,7 @@ Object Oriented Programming and Design, Design Patterns, High Quality Code, Data
 
 ### Dev Tools
 
-Atlassian tools (JIRA, Confluence, BitBucket, ), CI Tools(Jenkins), Git, SVN, GitHub, Docker.
+Atlassian tools (JIRA, Confluence, BitBucket), CI Tools(Jenkins), Git, SVN, GitHub.
 
 ### Soft Skills
 
@@ -78,7 +78,7 @@ Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Mana
 
 ### Other
 
-Python, Java, C#, PHP. Laravel
+Python, Java, C#, PHP, Laravel, XML, JSON, SQL, Docker.
 
 ## Projects
 
