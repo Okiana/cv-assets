@@ -50,6 +50,8 @@ A practically oriented study programme aimed at marketing and management of IT r
 This is an intensive coding bootcamp for software engineers. The study program included core programming with C#, Java, JavaScript and PHP, databases, computer science concepts, SPA web development frameworks like Angular and building server rendered apps with ASP.NET Core.
 An additional key aspect of the program was soft skill and to effectively work in a team.
 
+---
+
 **Professional High School of Electronics and Automatics** - **Computer Engineering and Technology** - Sofia, Bulgaria.
 
 My specialty was “Computer technology and technologies” with heavy hardware orientation, although programming was part of the program. The main objectives was for us to learn how to assembly computer systems, diagnose hardware issues and any related software problems. The program concluded with a 3rd degree qualification exam for a computer technician.
