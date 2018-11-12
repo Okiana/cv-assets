@@ -39,7 +39,7 @@ My responsibilities included communicating with people, who needed information f
 ## Education
 
 ---
-**Prof. BSc Marketing** - **MTM college** - Sofia, Bulgaria.
+**Prof. BSc Entrepreneurship** - **MTM college** - Sofia, Bulgaria.
 
 A practically oriented study programme aimed at marketing and management of IT resources.
 
