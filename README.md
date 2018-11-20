@@ -60,7 +60,7 @@ My specialty was “Computer technology and technologies” with heavy hardware 
 
 ### JavaScript Stack
 
-JavaScript ES5+, TypeScript, Angular.js Angular, Express.js, Mongoose, lodash, JQuery, NPM, ESLint/TSLint, HTML5, CSS, SCSS,  Polymer
+JavaScript ES5+, TypeScript, Angular.js Angular, Express.js, Mongoose, lodash, JQuery, NPM, ESLint/TSLint, Polymer
 
 ### Databases
 
@@ -84,7 +84,7 @@ Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Mana
 
 ### Other
 
-Python, Java, C#, XML, JSON, SQL, Docker.
+ HTML5, CSS, SCSS, Python, Java, C#, XML, JSON, SQL, Docker.
 
 ## Projects
 
