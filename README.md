@@ -10,7 +10,7 @@ StackOverflow: [https://stackoverflow.com/users/10626407/okiana-yordanova](https
 
 ## Summary
 
-I enjoy working as a full-stack developer, but I love the frontend part, because i enjoy creating the look of the product. For me teamwork is fun and inspirational part of the process. You can always learn from everything and everybody which is actually my moto.  
+I really enjoy working as a JavaScript full-stack developer. I feel great when working both in the front-end and in the back-end. For me teamwork is a fun and inspirational part of the process. I think a person can always learn from everything and everyone.
 
 ## Work Experience
 
@@ -18,9 +18,10 @@ I enjoy working as a full-stack developer, but I love the frontend part, because
 
 My responsibilities included:
 
-- Designing, implementing and testing new components for business process modeling and optimization solution.
-- Supporting clients with the installation and use of the provided product.
-- Taking part in planning sessions, daily standups, retrospectives and other Scrum/Kanban ceremonies.
+- Designing, implementing and testing new components for our business process modeling and optimization product. 
+- Implementing data storage solutions with ocr and elastic search.
+- Supporting clients with the installation and use of the provided product. 
+- Taking part in planning sessions, daily standups, retrospectives and other Scrum/Kanban ceremonies. 
 - Supporting new developers to be an effective part of the team.
 
 ---
