@@ -73,9 +73,9 @@ My specialty was “Computer technology and technologies” with heavy hardware 
 
 ## Skills
 
-### JavaScript Stack
+### JavaScript & Frameworks  
 
-JavaScript ES5+, TypeScript, Angular.js, Angular, Vue.js, Node.js, Express.js, Mongoose, lodash, JQuery, NPM, ESLint/TSLint, Polymer
+JavaScript (ES5, ES6), TypeScript, Angular.js, Angular, Vue.js, Node.js, Express.js, Mongoose, jQuery, NPM, ESLint/TSLint, Polymer, OData v2.
 
 ### Databases
 
@@ -87,11 +87,14 @@ Object Oriented Programming and Design, Design Patterns, High Quality Code, Data
 
 ### Testing
 
-Sinon, Mocha, Jest.
+Sinon, Mocha, Jest, QUnit, Cypress.
 
 ### Dev Tools
 
-Atlassian tools (JIRA, Confluence, BitBucket), CI Tools(Jenkins), Git, SVN, GitHub.
+Atlassian tools (JIRA, Confluence, BitBucket), CI Tools (Jenkins), Git, SVN, GitHub.
+
+### Web APIs  
+REST.
 
 ### Soft Skills
 
