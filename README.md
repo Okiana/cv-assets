@@ -14,7 +14,21 @@ I really enjoy working as a JavaScript full-stack developer. I feel great when w
 
 ## Work Experience
 
-**Abas Business Solutions Bulgaria Ltd.** - **JavaScript Developer** - Sofia, Bulgaria - _March 2017 - Now_
+**SAP Labs Bulgaria.** - **JavaScript Developer** - Sofia, Bulgaria - September - 2019 - Now_
+
+My responsibilities included:
+
+- Designing, implementing, and testing new components and controls for UI5 and UI5 web components projects.
+- Customer support.
+- Taking part in planning sessions, daily standups, retrospectives, and other Scrum ceremonies.
+- By having an extra role as an accessibility expert on the team, I was responsible for:  
+
+    - Ensuring that UI components and controls comply with accessibility standards (**WCAG, ARIA**) and best practices.  
+    - Conducting accessibility testing and audits using tools such as **JAWS, NVDA, Color Contrast Analyzer, Access Assistant**.  
+    - Providing guidance and support to other teams of application developers.   
+---
+
+**Abas Business Solutions Bulgaria Ltd.** - **JavaScript Developer** - Sofia, Bulgaria - _March 2017 - September 2019_
 
 My responsibilities included:
 
@@ -127,3 +141,15 @@ In Software University I volunteered as an assistant to support people with solv
 **Software University** - **Assistant** - Sofia, Bulgaria
 
 I was volunteer in a HTML5 Computer Games workshop. I worked with children and helped them to do their tasks and create games with HTML5, CSS and JavaScript.
+
+---
+
+## Speaker Conference 
+
+### Speaker at UI5 Conference 2022 – SAP  
+**Topic:** *Developing with SAPUI5 Smart Controls – Time is Money*  
+
+- Co-presented at SAP's UI5 conference alongside a colleague.
+- Demonstrated the development of a smart control, highlighting its features and implementation.  
+- Covered the **accessibility aspects** of the control, showcasing best practices and compliance with **WCAG, ARIA** standards.  
+
