@@ -22,11 +22,9 @@ My responsibilities included:
 - Customer support.
 - Taking part in planning sessions, daily standups, retrospectives, and other Scrum ceremonies.
 - By having an extra role as an accessibility expert on the team, I was responsible for:  
-
     - Ensuring that UI components and controls comply with accessibility standards (**WCAG, ARIA**) and best practices.  
     - Conducting accessibility testing and audits using tools such as **JAWS, NVDA, Color Contrast Analyzer, Access Assistant**.  
     - Providing guidance and support to other teams of application developers.
-
 ---
 
 **Abas Business Solutions Bulgaria Ltd.** - **JavaScript Developer** - Sofia, Bulgaria - _March 2017 - September 2019_
@@ -37,7 +35,6 @@ My responsibilities included:
 - Supporting clients with the installation and use of the provided product. 
 - Taking part in planning sessions, daily standups, retrospectives and other Scrum/Kanban ceremonies. 
 - Supporting new developers to be an effective part of the team.
-
 ---
 
 **Software University** - **Training Administrator** - Sofia, Bulgaria - _March 2016 - September 2016_
