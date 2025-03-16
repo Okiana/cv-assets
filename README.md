@@ -15,10 +15,9 @@ I believe in continuous learning and growth, embracing challenges as opportuniti
 
 ## Work Experience
 
-**SAP Labs Bulgaria.** - **JavaScript Developer** - Sofia, Bulgaria - _September 2019 - Now_
+**SAP Labs Bulgaria** - **JavaScript Developer** - Sofia, Bulgaria - _September 2019 - Now_
 
 My responsibilities included:
-
 - Designing, implementing, and testing new components and controls for UI5 and UI5 web components projects.
 - Customer support.
 - Taking part in planning sessions, daily standups, retrospectives, and other Scrum ceremonies.
@@ -26,13 +25,13 @@ My responsibilities included:
 
     - Ensuring that UI components and controls comply with accessibility standards (**WCAG, ARIA**) and best practices.  
     - Conducting accessibility testing and audits using tools such as **JAWS, NVDA, Color Contrast Analyzer, Access Assistant**.  
-    - Providing guidance and support to other teams of application developers.   
+    - Providing guidance and support to other teams of application developers.
+
 ---
 
 **Abas Business Solutions Bulgaria Ltd.** - **JavaScript Developer** - Sofia, Bulgaria - _March 2017 - September 2019_
 
 My responsibilities included:
-
 - Designing, implementing and testing new components for our business process modeling and optimization product. 
 - Implementing data storage solutions with ocr and elastic search.
 - Supporting clients with the installation and use of the provided product. 
@@ -40,6 +39,7 @@ My responsibilities included:
 - Supporting new developers to be an effective part of the team.
 
 ---
+
 **Software University** - **Training Administrator** - Sofia, Bulgaria - _March 2016 - September 2016_
 
 I was tasked with the organization of the “open courses” in Software University, which included communication with the lecturers, managing presentations/video/code materials, creating and testing final exams and making sure that they run smoothly.
@@ -54,7 +54,6 @@ My responsibilities included communicating with people, who needed information f
 
 ## Education
 
----
 **Prof. BSc Entrepreneurship** - **MTM college** - Sofia, Bulgaria.
 
 A practically oriented study programme aimed at marketing and management of IT resources.
@@ -76,15 +75,15 @@ My specialty was “Computer technology and technologies” with heavy hardware 
 
 ### JavaScript & Frameworks  
 
-JavaScript (ES5, ES6), TypeScript, Angular.js, Angular, Vue.js, Node.js, Express.js, Mongoose, jQuery, NPM, ESLint/TSLint, Polymer, OData v2.
+JavaScript (ES5, ES6), TypeScript, Angular.js, Angular, Vue.js, Node.js, Express.js, Mongoose, jQuery, NPM, ESLint/TSLint, Polymer, OData v2
 
 ### Databases
 
-MySQL, MongoDB, PostgreSQL.
+MySQL, MongoDB, PostgreSQL
 
 ### Computer Science Concepts
 
-Object Oriented Programming and Design, Design Patterns, High Quality Code, Data Structures and Algorithms.
+Object Oriented Programming and Design, Design Patterns, High Quality Code, Data Structures and Algorithms
 
 ### Testing
 
@@ -92,18 +91,18 @@ Sinon, Mocha, Jest, QUnit, Cypress.
 
 ### Dev Tools
 
-Atlassian tools (JIRA, Confluence, BitBucket), CI Tools (Jenkins), Git, SVN, GitHub.
+Atlassian tools (JIRA, Confluence, BitBucket), CI Tools (Jenkins), Git, SVN, GitHub
 
 ### Web APIs  
-REST.
+REST
 
 ### Soft Skills
 
-Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Management, Conflict Resolution, Leadership, Adaptability.
+Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Management, Conflict Resolution, Leadership, Adaptability
 
 ### Other
 
- HTML5, CSS, SCSS, Python, Java, C#, XML, JSON, SQL, Docker.
+ HTML5, CSS, SCSS, Python, Java, C#, XML, JSON, SQL, Docker
 
 ## Projects
 
