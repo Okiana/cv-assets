@@ -10,11 +10,12 @@ StackOverflow: [https://stackoverflow.com/users/10626407/okiana-yordanova](https
 
 ## Summary
 
-I really enjoy working as a JavaScript full-stack developer. I feel great when working both in the front-end and in the back-end. For me teamwork is a fun and inspirational part of the process. I think a person can always learn from everything and everyone.
+Passionate JavaScript developer with experience in both front-end and back-end development. I thrive in dynamic environments where teamwork fosters creativity and innovation. 
+I believe in continuous learning and growth, embracing challenges as opportunities to expand my expertise. Stepping out of my comfort zone is not just a challenge but a chance to gain new perspectives and skills.  
 
 ## Work Experience
 
-**SAP Labs Bulgaria.** - **JavaScript Developer** - Sofia, Bulgaria - September - 2019 - Now_
+**SAP Labs Bulgaria.** - **JavaScript Developer** - Sofia, Bulgaria - _September 2019 - Now_
 
 My responsibilities included:
 
@@ -147,9 +148,19 @@ I was volunteer in a HTML5 Computer Games workshop. I worked with children and h
 
 ---
 
+**SAP** - **Dkom** - Sofia, Bulgaria
+
+I volunteered to help organize an internal SAP conference, assisting with planning, logistics, and coordination. It was a great experience working with different teams to make sure everything ran smoothly and that
+speakers and attendees had what they needed. 
+
+Beyond the main event, being part of the team responsible for the **fun and engaging activities** was an unforgettable experience. It was amazing to see how creating a great atmosphere could bring people together 
+and make the event even more memorable.
+
+---
+
 ## Speaker Conference 
 
-### Speaker at UI5 Conference 2022 – SAP  
+### Speaker at UI5con HYBRID 2022
 **Topic:** *Developing with SAPUI5 Smart Controls – Time is Money*  
 
 - Co-presented at SAP's UI5 conference alongside a colleague.
