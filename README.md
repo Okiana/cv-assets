@@ -20,13 +20,11 @@ Passionate JavaScript developer with experience in both front-end and back-end d
 **Sofia, Bulgaria**
 
 - Designing, implementing, and maintaining new components and controls for UI5 and UI5 Web Components projects.
-- Maintaining and updating legacy UI5 controls to ensure compatibility and performance improvements.
 - Customer support.
 - Participating in planning sessions, daily standups, retrospectives, and other Scrum ceremonies.
 - **Accessibility Expert Role:**
   - Ensuring UI components and controls comply with accessibility standards (**WCAG, ARIA**) and best practices.
   - Conducting accessibility testing and audits using tools such as **JAWS, NVDA, Color Contrast Analyzer, Access Assistant**.
-  - Providing guidance and support to application development teams.
 - **Speaker at UI5con HYBRID 2022:**
   - Co-presented at SAP's UI5 conference.
   - Demonstrated the development of a smart control, its features, and implementation.
