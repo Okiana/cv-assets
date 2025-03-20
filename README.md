@@ -114,10 +114,6 @@ Sinon, Mocha, Jest, QUnit, Cypress
 
 Atlassian (JIRA, Confluence, BitBucket), CI Tools (Jenkins), Git, SVN, GitHub
 
-### **Web APIs**
-
-REST
-
 ### **Soft Skills**
 
 Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Management, Conflict Resolution, Leadership, Adaptability
