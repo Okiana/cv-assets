@@ -9,7 +9,7 @@
 
 ## Summary
 
-Passionate JavaScript developer with experience in both front-end and back-end development. I thrive in dynamic environments where teamwork fosters creativity and innovation. I believe in continuous learning and growth, embracing challenges as opportunities to expand my expertise. Stepping out of my comfort zone is not just a challenge but a chance to gain new perspectives and skills.
+Passionate JavaScript developer with experience in both front-end and back-end development. I thrive in dynamic environments where teamwork fosters creativity and innovation. I believe in continuous learning and growth, embracing challenges as opportunities to expand my expertise.
 
 ---
 
