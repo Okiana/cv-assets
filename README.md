@@ -156,3 +156,31 @@ Personal and training projects are available on my GitHub profile.
 
 ---
 
+## Volunteer Work
+
+**Aikido club Slavia** - **Aikido Trainer** - Sofia, Bulgaria
+
+As a volunteer I like to lead trainings for Aikido, mostly to children in different dojos(clubs) in the Aikido organization where I train. I also support the organization of seminars with foreigner instructors.
+
+---
+**Software University** - **Mentor** - Sofia, Bulgaria
+
+In Software University I volunteered as an assistant to support people with solving tasks/homeworks.
+
+---
+**Software University** - **Assistant** - Sofia, Bulgaria
+
+I was volunteer in a HTML5 Computer Games workshop. I worked with children and helped them to do their tasks and create games with HTML5, CSS and JavaScript.
+
+---
+
+**SAP** - **Dkom** - Sofia, Bulgaria
+
+I volunteered to help organize an internal SAP conference, assisting with planning, logistics, and coordination. It was a great experience working with different teams to make sure everything ran smoothly and that
+speakers and attendees had what they needed. 
+
+Beyond the main event, being part of the team responsible for the **fun and engaging activities** was an unforgettable experience. It was amazing to see how creating a great atmosphere could bring people together 
+and make the event even more memorable.
+
+---
+
