@@ -133,7 +133,8 @@ HTML5, CSS, SCSS, Python, Java, C#, XML, JSON, SQL, Docker
 
 ### **GitHub**
 
-Personal and training projects are available on my GitHub profile.
+Personal and training projects are available on my GitHub profile, as well as a Markdown version of my CV. 
+You can also view it at [my github page](https://okiana.github.io/cv-assets/).
 
 ---
 
